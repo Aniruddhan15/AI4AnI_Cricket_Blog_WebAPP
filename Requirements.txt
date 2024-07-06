@@ -1,0 +1,5 @@
+Streamlit
+OpenAI Account for API Key
+Gemini Account for API Key
+google.generativeai 
+
